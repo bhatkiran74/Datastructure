@@ -3,7 +3,7 @@
 
 typedef struct stack
 {
-    int size;
+    int size;               //kiran
     int top;
     int *a;
 
